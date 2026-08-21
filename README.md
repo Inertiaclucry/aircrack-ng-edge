@@ -41,4 +41,4 @@ Docs & guides: https://aircrack-ng-edge.softnation.xyz
 ## What you get
 - ✅ **Real-Time Protection:** Advanced threat detection with zero-day exploit prevention.
 - ✅ **Privacy Shield:** Encrypted connections and identity protection across all networks.
-- ✅ **Multi-Platform Coverage:** Unified security management across desktop and mobile devices.   
+- ✅ **Multi-Platform Coverage:** Unified security management across desktop and mobile devices.    
